@@ -10,7 +10,7 @@ You can use HTML, JavaScript, and CSS to complete this project. Plain CSS is rec
 
 ----
 ## User stories
-- [ ] My tribute page should have an element with a corresponding ```id="main"```, which contains all other elements.
+- [x] My tribute page should have an element with a corresponding ```id="main"```, which contains all other elements.
 - [ ] I should see an element with a corresponding ```id="title"```, which contains a string (i.e. text) that describes the subject of the tribute page (e.g. "Dr. Norman Borlaug").
 - [ ] I should see a ```div``` element with a corresponding ```id="img-div"```.
  Within the ```img-div``` element, I should see an img element with a corresponding ```id="image"```.
