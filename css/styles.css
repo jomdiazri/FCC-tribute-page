@@ -2,6 +2,10 @@ body{
 
 }
 
+h1  {
+
+}
+
 #main{
 
 }
@@ -14,5 +18,8 @@ body{
 
 }
 #image  {
-  
+
+}
+#img-caption  {
+  text-align: center;
 }
