@@ -22,7 +22,8 @@ h2  {
 
 }
 #image  {
-
+  display: block;
+  max-width: 100%;
 }
 #img-caption  {
   text-align: center;
